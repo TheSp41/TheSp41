@@ -1,14 +1,26 @@
 ## Welcome To My GitHub
-![TheSp41's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSp41&show_icons=true&theme=dark)
 <!-- Repositories used for icons https://github.com/edent/SuperTinyIcons/tree/master/images/svg  https://github.com/devicons/devicon/tree/master/icons  -->
+![Christian Bale as Batman](https://media.giphy.com/media/TlrykTWuQMvmM/giphy.gif)
+## About Me
+![TheSp41's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSp41&show_icons=true&theme=dark)
+<ul>
+ <li>CSE Engineer</li>
+ <li>Football Enjoyer</li>
+ <li>Currently Exploring WebDev</li>
+ <li>🦇</li>
 
- <img align="right" alt="Coding" width="400" src="https://tenor.com/b1He9.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+ 
+</ul>
+
+
+
+## Coding Profiles
+
 <a href="https://leetcode.com/u/theGoat26/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/leetcode.svg" alt="" height="30" width="40" /></a>
  <a href="https://www.geeksforgeeks.org/profile/shresthap2jhg" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/geeksForGeeks.svg" alt="" height="30" width="40" /></a>
- <a href="https://github.com/TheSp41" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" alt="" height="30" width="40" /></a>
- <h3 align="left">Languages and Tools:</h3>
+ <a href="https://github.com/TheSp41" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" alt="" height="30" width="40" /></a></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSp41&theme=dark)](https://github.com/TheSp41/github-readme-stats)
+ ## Tech Stack
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -37,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"
        alt="prisma" width="40" height="40"/>
 </a>
- 
+
 
 </p>
 
