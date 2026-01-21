@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![TheSp41's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSp41)](https://github.com/TheSp41/github-readme-stats)
 <!--
 **TheSp41/TheSp41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
