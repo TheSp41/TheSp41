@@ -2,7 +2,29 @@
 <!-- Repositories used for icons https://github.com/edent/SuperTinyIcons/tree/master/images/svg  https://github.com/devicons/devicon/tree/master/icons  -->
 ![Christian Bale as Batman](https://media.giphy.com/media/TlrykTWuQMvmM/giphy.gif)
 ## About Me
-![TheSp41's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSp41&show_icons=true&theme=dark)
+
+<!--![](https://leetcard.jacoblin.cool/theGoat26?ext=heatmap) 
+![TheSp41's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSp41&show_icons=true&theme=dark)-->
+
+<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/theGoat26)](https://leetcode.com/theGoat26) -->
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://leetcard.jacoblin.cool/theGoat26?ext=heatmap"
+        height="320"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=TheSp41&show_icons=true&theme=dark"
+        height="320"
+      />
+    </td>
+  </tr>
+</table>
+
+
 <ul>
  <li>CSE Engineer</li>
  <li>Football Enjoyer</li>
