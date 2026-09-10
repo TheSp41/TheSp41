@@ -41,7 +41,7 @@
 <a href="https://leetcode.com/u/theGoat26/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/leetcode.svg" alt="" height="30" width="40" /></a>
  <a href="https://www.geeksforgeeks.org/profile/shresthap2jhg" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/geeksForGeeks.svg" alt="" height="30" width="40" /></a>
  <a href="https://github.com/TheSp41" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" alt="" height="30" width="40" /></a></p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSp41&theme=dark)](https://github.com/TheSp41/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=TheSp41&theme=dark)](https://github.com/TheSp41/github-readme-stats)
  ## Tech Stack
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
